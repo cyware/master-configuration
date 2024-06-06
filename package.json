@@ -1,6 +1,6 @@
 {
   "name": "@cyware/master-configuration",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "KhulnaSoft DevSec <security@khulnasoft.com>",
   "license": "ISC",
   "scripts": {
