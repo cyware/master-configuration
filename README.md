@@ -1,6 +1,6 @@
 ## 👋 Master Configuration
 
-[![NPM Version](https://img.shields.io/npm/v/@cyware/master-configuration?style=for-the-badge)](https://www.npmjs.com/package/@cyware/master-configuration)
+[![NPM Version](https://img.shields.io/npm/v/@cyware/master-configuration/badge.svg)](https://www.npmjs.com/package/@cyware/master-configuration)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <a href="https://snyk.io/test/github/cywre/master-configuration">
   <img src="https://snyk.io/test/github/cywre/master-configuration/badge.svg" alt="Known Vulnerabilities">
