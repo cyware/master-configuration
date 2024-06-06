@@ -1,6 +1,6 @@
 # Master Configuration
 
-[![License][license_badge]][license]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <a href="https://www.npmjs.com/package/@khulnasoftai-shell">
   <img src="https://img.shields.io/npm/v/@khulnasoft/ai-shell" alt="Current version">
 </a>
