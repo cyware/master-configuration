@@ -16,3 +16,7 @@ Contain all configuration files for all projects
 ```npm
 npm install @cyware/master-configuration
 ```
+
+## 💚 Community
+
+Come join our [Discord](https://links.khulnasoft.com/www-discord) community and connect with other Cyware users! We'd love to have you as part of the conversation and help with any questions you may have.
